@@ -1,10 +1,12 @@
-# codelab_coogle
+# First Flutter App
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+![preview0](https://codelabs.developers.google.com/static/codelabs/first-flutter-app-pt2/img/b17de15fa7831a1c.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
